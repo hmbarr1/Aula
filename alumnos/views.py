@@ -52,4 +52,3 @@ def alumnos_por_curso(request, curso_id):
         "cantidad_alumnos": len(alumnos),
         "alumnos": alumnos
     })
-
